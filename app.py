@@ -8,7 +8,7 @@ def wide_space_default():
 
 wide_space_default()
 
-st.header("RAG ChatBOT by Aadil", anchor=False)
+st.header("RAG ChatBOT by Charvin", anchor=False)
 
 # CSS for custom styling (increasing font size of assistant's text)
 css_for_text = """

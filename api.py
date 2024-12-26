@@ -273,7 +273,7 @@ if __name__ == "__main__":
     embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
     # Pinecone index name for storing document embeddings
-    index_name = "sarvam-ai-assessment"
+    index_name = "rag-chatbot"
 
     # Creating Pinecone index using the embedding model
     pinecone_index = creating_pinecone_index(embedding)
