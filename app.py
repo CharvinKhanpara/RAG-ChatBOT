@@ -84,7 +84,7 @@ with st.sidebar:
     profession = st.selectbox("Select your profession for better results", professions)
     
     st.write("This is not a production ready project till yet. I am working on it to make it scalable on a large scale.")
-    st.write("Give your valuable feedback at my [Linkedin](https://www.linkedin.com/in/mohammed-adil-silawat/) & [Email](https://mail.google.com/mail/u/0/?to=aadilmohammad172@gmail.com&fs=1&tf=cm)")
+    st.write("Give your valuable feedback at my [Linkedin](https://www.linkedin.com/in/charvin-khanpara-4114a4241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) & [Email](https://mail.google.com/mail/u/0/?to=charvinkhanpara123@gmail.com.com&fs=1&tf=cm)")
 
 desc = st.markdown(response['status'], unsafe_allow_html=True)
 
